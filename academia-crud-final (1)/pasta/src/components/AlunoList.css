@@ -1,0 +1,24 @@
+
+.tabela-alunos {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.tabela-alunos th, .tabela-alunos td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+.tabela-alunos th {
+  background-color: #f2f2f2;
+}
+
+.tabela-alunos tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.tabela-alunos button {
+  margin-right: 5px;
+}

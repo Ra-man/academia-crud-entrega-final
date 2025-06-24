@@ -1,0 +1,7 @@
+
+{
+  "alunos": [
+    { "id": 1, "nome": "Ana Silva", "cpf": "000.000.000-01", "telefone": "(11) 90000-0001", "email": "ana1@gmail.com" },
+    { "id": 2, "nome": "Bruno Souza", "cpf": "000.000.000-02", "telefone": "(11) 90000-0002", "email": "bruno2@gmail.com" }
+  ]
+}
